@@ -1,5 +1,5 @@
 # garlopy
-A Scrapely clone (learn HTML scrapping from examples) using  BeautifulSoup
+A Scrapely clone (learn HTML web scraping from examples and basic machine learning) using  BeautifulSoup
 
 # Example
 
